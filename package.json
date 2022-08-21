@@ -1,0 +1,23 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djgoulart/frontend-masters-react-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/djgoulart/frontend-masters-react-intro/issues"
+  },
+  "homepage": "https://github.com/djgoulart/frontend-masters-react-intro#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
